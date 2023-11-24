@@ -1,0 +1,4 @@
+E:\C++\ejemplos2\EJERCICIO_ventanas\x64\Debug\EJERCICIO_ventanas.vcxproj.AssemblyReference.cache
+E:\C++\ejemplos2\EJERCICIO_ventanas\x64\Debug\EJERCICIOventanas.MyForm.resources
+E:\C++\ejemplos2\EJERCICIO_ventanas\x64\Debug\EJERCICIO_ventanas.vcxproj.GenerateResource.cache
+E:\C++\ejemplos2\EJERCICIO_ventanas\x64\Debug\EJERCICIO_ventanas.exe
