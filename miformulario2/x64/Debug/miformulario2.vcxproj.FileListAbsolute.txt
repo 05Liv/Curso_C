@@ -1,0 +1,4 @@
+E:\C++\ejemplos2\miformulario2\x64\Debug\miformulario2.vcxproj.AssemblyReference.cache
+E:\C++\ejemplos2\miformulario2\x64\Debug\miformulario2.MyForm.resources
+E:\C++\ejemplos2\miformulario2\x64\Debug\miformulario2.vcxproj.GenerateResource.cache
+E:\C++\ejemplos2\miformulario2\x64\Debug\miformulario2.exe

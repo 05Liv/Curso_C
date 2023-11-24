@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+E:\C++\ejemplos2\miformulario2\MyForm.cpp(6,1): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  miformulario2.vcxproj -> E:\C++\ejemplos2\miformulario2\x64\Debug\miformulario2.exe
