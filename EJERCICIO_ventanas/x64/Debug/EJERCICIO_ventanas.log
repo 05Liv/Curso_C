@@ -1,0 +1,3 @@
+﻿  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+LINK : error LNK2001: símbolo externo main sin resolver
+E:\C++\ejemplos2\EJERCICIO_ventanas\x64\Debug\EJERCICIO_ventanas.exe : fatal error LNK1120: 1 externos sin resolver
