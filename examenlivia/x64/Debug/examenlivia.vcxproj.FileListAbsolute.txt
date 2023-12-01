@@ -1,0 +1,6 @@
+D:\C++\ejemplos2\examenlivia\x64\Debug\examenlivia.sourcelink.json
+D:\C++\ejemplos2\examenlivia\x64\Debug\Ijwhost.dll
+D:\C++\ejemplos2\examenlivia\x64\Debug\examenlivia.dll
+D:\C++\ejemplos2\examenlivia\x64\Debug\examenlivia.deps.json
+D:\C++\ejemplos2\examenlivia\x64\Debug\examenlivia.genruntimeconfig.cache
+D:\C++\ejemplos2\examenlivia\x64\Debug\examenlivia.runtimeconfig.json

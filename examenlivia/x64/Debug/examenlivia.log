@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\C++\ejemplos2\examenlivia\Source.cpp(30,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\C++\ejemplos2\examenlivia\Source.cpp(31,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\C++\ejemplos2\examenlivia\Source.cpp(32,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\C++\ejemplos2\examenlivia\Source.cpp(36,9): warning C4101: 'mostrarLibros': variable local sin referencia
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cpp
+  Generando código...
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  examenlivia.vcxproj -> D:\C++\ejemplos2\examenlivia\x64\Debug\examenlivia.dll
